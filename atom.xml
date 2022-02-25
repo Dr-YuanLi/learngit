@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog_Dr. Yuan Li</title>
+  
+  <subtitle>Dr. Yuan Li</subtitle>
+  <link href="https://dr-yuan-li.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dr-yuan-li.github.io/"/>
+  <updated>2022-02-25T07:42:59.359Z</updated>
+  <id>https://dr-yuan-li.github.io/</id>
+  
+  <author>
+    <name>Dr. Yuan Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://dr-yuan-li.github.io/2022/02/25/ly/"/>
+    <id>https://dr-yuan-li.github.io/2022/02/25/ly/</id>
+    <published>2022-02-25T01:25:00.000Z</published>
+    <updated>2022-02-25T07:42:59.359Z</updated>
+    
+    
+    
+    
+    <category term="Markdown" scheme="https://dr-yuan-li.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://dr-yuan-li.github.io/tags/Markdown/"/>
+    
+    <category term="VC code" scheme="https://dr-yuan-li.github.io/tags/VC-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>begin</title>
+    <link href="https://dr-yuan-li.github.io/2022/02/24/begin/"/>
+    <id>https://dr-yuan-li.github.io/2022/02/24/begin/</id>
+    <published>2022-02-24T03:46:45.000Z</published>
+    <updated>2022-02-25T07:42:59.359Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://dr-yuan-li.github.io/2022/02/22/test/"/>
+    <id>https://dr-yuan-li.github.io/2022/02/22/test/</id>
+    <published>2022-02-22T01:25:00.000Z</published>
+    <updated>2022-02-25T07:42:59.359Z</updated>
+    
+    
+    
+    
+    <category term="Markdown" scheme="https://dr-yuan-li.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="https://dr-yuan-li.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="https://dr-yuan-li.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MY_CV_en</title>
+    <link href="https://dr-yuan-li.github.io/2022/02/20/my-cv-cn/"/>
+    <id>https://dr-yuan-li.github.io/2022/02/20/my-cv-cn/</id>
+    <published>2022-02-20T13:36:32.000Z</published>
+    <updated>2022-02-25T07:42:59.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Curriculum-Vitae-for-Yuan-Li&quot;&gt;&lt;a href=&quot;#Curriculum-Vitae-for-Yuan-Li&quot; class=&quot;headerlink&quot; title=&quot;Curriculum Vitae for Yuan</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MY_CV_en</title>
+    <link href="https://dr-yuan-li.github.io/2022/02/20/my-cv-en/"/>
+    <id>https://dr-yuan-li.github.io/2022/02/20/my-cv-en/</id>
+    <published>2022-02-20T13:36:32.000Z</published>
+    <updated>2022-02-25T07:42:59.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Curriculum-Vitae-for-Yuan-Li&quot;&gt;&lt;a href=&quot;#Curriculum-Vitae-for-Yuan-Li&quot; class=&quot;headerlink&quot; title=&quot;Curriculum Vitae for Yuan</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
